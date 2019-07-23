@@ -1,4 +1,4 @@
-# customer-tracker-maven
+# customer-tracker
 Spring-Hibernate-Maven-Customer Tracker
 Simple CRUD operations, web application
 
